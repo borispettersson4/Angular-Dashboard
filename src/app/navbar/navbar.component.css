@@ -1,0 +1,17 @@
+.logo {
+    color:white;
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
+.logo-left {
+    background-color: rgb(5, 85, 139);
+    padding: 3px 5px 3px 8px;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+.logo-right {
+    padding: 3px 8px 3px 3px;
+    border-radius: 4px;
+}
